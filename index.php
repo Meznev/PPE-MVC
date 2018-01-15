@@ -10,7 +10,7 @@ include("vues/v_bandeau.php");
 
 $dateActuelle = date('Y-m-d ');
 
-echo " La salade ";
+echo " La salade  verte ";
 $_SESSION['DateActuelle'] = $dateActuelle;
 if(isset($_SESSION['message']))
 {
