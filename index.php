@@ -18,6 +18,7 @@ if(isset($_SESSION['message']))
     unset($_SESSION['message']);
 }
 
+$bonjour; 
 
 if(!isset($_REQUEST['Chemin']))
 {
