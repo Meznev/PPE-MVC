@@ -17,8 +17,8 @@ if(isset($_SESSION['message']))
     include('vues/v_erreurs.php');
     unset($_SESSION['message']);
 }
- dojfnbsdifjnbqpdokbf
- 
+
+
 
 
 if(!isset($_REQUEST['Chemin']))
