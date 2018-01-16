@@ -21,7 +21,6 @@ if(isset($_SESSION['message']))
 
 
 
-
 if(!isset($_REQUEST['Chemin']))
 {
     $Chemin = 'accueil';
